@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\FlapyBirds\FlapyBirds\bin\Debug\FlapyBirds.exe.config
+C:\Users\USER\Desktop\FlapyBirds\FlapyBirds\bin\Debug\FlapyBirds.exe
+C:\Users\USER\Desktop\FlapyBirds\FlapyBirds\bin\Debug\FlapyBirds.pdb
+C:\Users\USER\Desktop\FlapyBirds\FlapyBirds\obj\Debug\FlapyBirds.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FlapyBirds\FlapyBirds\obj\Debug\FlapyBirds.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\FlapyBirds\FlapyBirds\obj\Debug\FlapyBirds.Form1.resources
+C:\Users\USER\Desktop\FlapyBirds\FlapyBirds\obj\Debug\FlapyBirds.Properties.Resources.resources
+C:\Users\USER\Desktop\FlapyBirds\FlapyBirds\obj\Debug\FlapyBirds.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FlapyBirds\FlapyBirds\obj\Debug\FlapyBirds.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FlapyBirds\FlapyBirds\obj\Debug\FlapyBirds.exe
+C:\Users\USER\Desktop\FlapyBirds\FlapyBirds\obj\Debug\FlapyBirds.pdb
